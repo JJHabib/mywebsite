@@ -1,0 +1,50 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+.title-container{
+  background-color: #d291bc;
+  width:100%;
+}
+
+.doctor{
+  width:50%;
+  display:block;
+  margin:0 auto;
+  padding:50px;
+}
+.heading{
+  font-family: 'Chelsea Market', cursive;
+  padding:100px 25px 0 25px;
+}
+p{
+  font-family: Verdana;
+  padding:5px 25px;
+}
+.features{
+  text-align: center;
+  padding:50px 25px;
+}
+.testimonial{
+  padding:25px 0 0;
+  font-family: 'Chelsea Market', cursive;
+}
+.testimonial-image{
+  width:200px;
+}
+.testimonial-item{
+  text-align: center;
+}
+.colored-section{
+  background-color: #d291bc;
+  height:300px;
+}
+
+#footer{
+  text-align: center;
+  padding:20px;
+}
+.foot{
+  padding:15px;
+}
